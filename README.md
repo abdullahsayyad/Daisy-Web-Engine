@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./repo/file.svg" alt="Daisy Logo" width="200"/>
+  <img src="./repo/file.svg" alt="Daisy Logo" width="400"/>
 </p>
 
 
