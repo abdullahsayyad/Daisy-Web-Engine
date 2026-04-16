@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./repo/file.svg" alt="Daisy Logo" width="200"/>
+</p>
+
+
 # Daisy
 
 **Daisy** is a lightweight, high-performance domain routing and application serving engine built in Rust. It is designed to act as a flexible layer between incoming HTTP requests and multiple hosted applications, enabling efficient domain-based routing with minimal overhead.
