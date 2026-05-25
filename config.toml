@@ -1,0 +1,10 @@
+[server]
+
+host = "127.0.0.1"
+port = 7878
+base = "../daisy/assets"
+
+[sites]
+domain = "example.com"
+root = "../demo"
+
